@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://rss3.io" target="_blank" rel="noopener noreferrer">
     <!-- RSS3 White logo, used the hosting for an absolute link -->
-    <img width="180" src="https://share.henry.wang/f/HlwmDi+" alt="RSS3 logo">
+    <img width="180" src="https://cdn.jsdelivr.net/gh/rss3-network/rss3-assets/logo.svg" alt="RSS3 logo">
   </a>
 </p>
 <p align="center">
@@ -15,6 +15,10 @@
 # RSS3 Assets
 
 This repository contains assets used by other RSS3 projects.
+
+## How to use
+
+`<https://cdn.jsdelivr.net/gh/rss3-network/rss3-assets/projects/<project name>/<file name>.<file type>`
 
 ## License
 
