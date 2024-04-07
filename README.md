@@ -17,8 +17,8 @@
 This repository contains assets used by other RSS3 projects.
 
 ## How to use
-
-`<https://cdn.jsdelivr.net/gh/rss3-network/assets/projects/<project name>/<file name>.<file type>`
+- `https://raw.githubusercontent.com/RSS3-Network/assets/projects/<project name>/<file name>.<file type>`
+- `https://cdn.jsdelivr.net/gh/rss3-network/assets/projects/<project name>/<file name>.<file type>`
 
 ## License
 
